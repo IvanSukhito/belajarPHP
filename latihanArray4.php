@@ -19,7 +19,7 @@
             'anggota2' =>
             [
                 'nama' => 'Saminem',
-                'hobbi' => ['Penjahit'],
+                'hobbi' => ['Menjahit'],
                 'cita-cita' => 'Melihat Anak Saya Sukses',
                 'Motivasi' => 'Rajin dan Pekerja Keras'
             ]
