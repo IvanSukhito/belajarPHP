@@ -29,19 +29,6 @@
         echo "Hallo $namaTemanMu, Aku $namaKamu"; 
     ?>
     </h1>
-
-    <p>Kenalkan Sahabat - sahabat ku :</p>
-    <?php
-    $sahabat = ['Lukman','Brodi','Layla'];
-
-    foreach($sahabat as $key => $value)
-         echo "
-        <ul>
-            <li> $value </li>
-        </ul>
-         "
-    
-    ?>
     <!-- <h1>Update Baru</h1> -->
 
 </body>
